@@ -1,6 +1,9 @@
 # HLMVPlusPlus-IssueTracker
 Report issues or provide feature suggestions for HLMV++ here.
 
+# Important!
+This build is for Team Fortress 2. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
+
 # Installation
 Download the EXE and the DLL files and extract them into your steamapps/common/Team Fortress 2/bin folder (where hlmv.exe is). Then just launch hlmvplusplus.exe instead of hlmv.exe and you're done!
 
