@@ -11,6 +11,7 @@ Download the EXE and the DLL files and extract them into your steamapps/common/T
 - **Options > Make Screenshot** now functions correctly, [generating a TGA formatted screenshot complete with a proper automatically created alpha channel](https://twitter.com/TF2CCWiki/status/1506697372360921091?t=6W5JvdDRSGEu30G94_DeHQ) for easy background removal for renders, even on [models with transparent/semi-transparent areas](https://twitter.com/TF2CCWiki/status/1505343182204190725?t=JvEA1EFZzbPdvkjvxJQ3cQ).
 - dxsupport.cfg tweaks to increase render quality should no longer be necessary with [the new "Picmip", "Antialias" and "Anistropic" dropdowns added to the **Render** tab on the bottom controls panel](https://twitter.com/TF2CCWiki/status/1494112255151153154?t=Sm1IA5paAfwOYRvCZckx-Q).
 - [VMT material variables can now be edited live in HLMV](https://twitter.com/TF2CCWiki/status/1492267684372828167?t=FQ9Brn1XsnCRMPTCRNdGbg)!
+- The list of dropdowns for facial flexes [has been updated to use sliders instead of dropdowns, autopopulates the flexes so every flex is listed, and the list has been paginated as well](https://media.discordapp.net/attachments/993823597401489468/993824557574127697/unknown-60.png), so you don't run into that fun issue where changing which flex a dropdown controls causes all your flex settings to reset.
 - The ability to save and import facial flex layouts has been added
 More info and an example layout can be seen in the next section.
 
