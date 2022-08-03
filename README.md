@@ -1,13 +1,19 @@
 # HLMVPlusPlus-IssueTracker
-Report issues or provide feature suggestions for HLMV++ here.
+Report issues or provide feature suggestions for **HLMV++** here.
+
+# Official Discord
+We have a Discord server now where you can submit bugs or feature suggestions!
+
+**[Click here to join](https://discord.gg/GeqVxrJfRs)**!
 
 # Credits
-- TF2CutContentWiki - Commissioned the creation of this project.
-- [ficool2](https://github.com/ficool2) - Programming. The entire reason this even exists.
-- [Gabrielwoj](https://github.com/gabrielwoj) - Bug testing, providing feedback and insight on changes/new features.
+- **TF2CutContentWiki** - Commissioned the creation of this project.
+- **[ficool2](https://github.com/ficool2)** - Programming. The entire reason this even exists.
+- **[Gabrielwoj](https://github.com/gabrielwoj)** - Bug testing, providing feedback and insight on changes/new features. Also made the Discord server image.
+- **[Andrew360](https://wiki.teamfortress.com/wiki/User:Andrew360)** - Bug testing, providing feedback and insight on changes/new features.
 
 # Important!
-This build is for Team Fortress 2. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
+***This build is for Team Fortress 2***. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
 
 I have however inquired with ficool2 about making a version of this program for other games (L4D, L4D2, Portal, Portal 2, CSS, CS:GO, HL2, etc).
 
