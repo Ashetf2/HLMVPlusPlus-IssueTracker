@@ -15,6 +15,8 @@ We have a Discord server now where you can submit bugs or feature suggestions!
 # Important!
 ***This build is for Team Fortress 2***. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
 
+***Update (August 31, 2022):*** HLMV++ also works for TF2 Source mods like TF2Classic, Open Fortress and Pre-Fortress 2. [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further.
+
 I have however inquired with ficool2 about making a version of this program for other games (L4D, L4D2, Portal, Portal 2, CSS, CS:GO, HL2, etc).
 
 # Installation
