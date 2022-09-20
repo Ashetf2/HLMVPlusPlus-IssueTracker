@@ -1,5 +1,9 @@
 # HLMVPlusPlus-IssueTracker
-Report issues or provide feature suggestions for **HLMV++** here.
+**HLMV++** *(Half-Life Model Viewer++)* is a new build of HLMV created by ficool2 *(after its creation was commissioned by TF2CutContent)*. The goal is the same as [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), to fix long-standing bugs in HLMV and add new features and functionality to make the program better to use, whether you're doing model renders for artwork or for wiki articles.
+
+You can download the latest testing build of **HLMV++** here. You can also report issues or provide feature suggestions here.
+
+Alternatively, if you're on Discord...
 
 # Official Discord
 We have a Discord server now where you can submit bugs or feature suggestions!
@@ -13,17 +17,18 @@ We have a Discord server now where you can submit bugs or feature suggestions!
 - **[Andrew360](https://wiki.teamfortress.com/wiki/User:Andrew360)** - Bug testing, providing feedback and insight on changes/new features.
 
 # Important!
-***This build is for Team Fortress 2***. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
+**HLMV++, like ficool2's other project, [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
 
-***Update (August 31, 2022):*** HLMV++ also works for TF2 Source mods like TF2Classic, Open Fortress and Pre-Fortress 2. [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further.
+**This build is for Team Fortress 2**. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
 
-I have however inquired with ficool2 about making a version of this program for other games (L4D, L4D2, Portal, Portal 2, CSS, CS:GO, HL2, etc).
+I have however inquired with ficool2 about making a version of this program for other games *(L4D, L4D2, Portal, Portal 2, CSS, CS:GO, HL2, etc)*.
 
 # Installation
-Download the EXE and the DLL files and extract them into your `steamapps/common/Team Fortress 2/bin` folder (where `hlmv.exe` is stored). Then just launch `hlmvplusplus.exe` instead of `hlmv.exe` and you're done!
+Download the EXE and the DLL files from this repo and extract them into your `steamapps/common/Team Fortress 2/bin` folder *(where `hlmv.exe` is stored)*. Then just launch `hlmvplusplus.exe` instead of `hlmv.exe` and you're done!
+
+HLMV++ also works for TF2 Source mods like TF2Classic, Open Fortress and Pre-Fortress 2. [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further.
 
 # Fixes & New Features
-*There are some other features I haven't added to this list yet, like being able to apply unusual particle FX to a model. Those will be added in a few hours once I am in front of my PC.*
 - **New Feature:** [View > Show/Hide Control Panel](https://drive.google.com/file/d/1zGoXqRgWLNYCyMDyXg15ZOw6gnSVF2An/view?usp=drivesdk).
   - Allows you to show/hide the lower-third controls panel, for larger renders.
 - **New Feature/Fix:** Options > Make Screenshot.
@@ -43,7 +48,7 @@ Download the EXE and the DLL files and extract them into your `steamapps/common/
 - **New Feature:** The ability to save and import facial flex layouts has been added. More info and an example layout can be seen in the next section.
 
 # New Facial Flex Saving Explained
-If you are familiar with using the Registry Editor (regedit.exe) to modify the "trans", "rot" and "lightrot" settings for models, there is now a new key that is added for models with facial flexes. The new key is called "flex" and can be used to export/import facial flex layouts.
+If you are familiar with using the Registry Editor *(regedit.exe)* to modify the "trans", "rot" and "lightrot" settings for models, there is now a new key that is added for models with facial flexes. The new key is called "flex" and can be used to export/import facial flex layouts.
 
 Here is an example "flex" key layout for `models/player/heavy.mdl`:
 
