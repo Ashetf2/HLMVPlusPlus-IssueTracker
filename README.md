@@ -11,8 +11,7 @@ We have a Discord server now where you can submit bugs or feature suggestions!
 **[Click here to join](https://discord.gg/GeqVxrJfRs)**!
 
 # Credits
-- **TF2CutContentWiki** - Commissioned the creation of this project. 
-  - *Unrelated note: Is also the original co-founder (404UNF, not Daniel) of [Team Fortress 2 Classic](https://en.m.wikipedia.org/wiki/Team_Fortress_2_Classic) (hi TF2C Discord 👋)*
+- **TF2CutContentWiki** - Commissioned the creation of this project.
 - **[ficool2](https://github.com/ficool2)** - Programming. The entire reason this even exists.
 - **[Gabrielwoj](https://github.com/gabrielwoj)** - Bug testing, providing feedback and insight on changes/new features. Also made the Discord server image.
 - **[Andrew360](https://wiki.teamfortress.com/wiki/User:Andrew360)** - Bug testing, providing feedback and insight on changes/new features.
