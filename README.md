@@ -15,6 +15,7 @@ We have a Discord server now where you can submit bugs or feature suggestions!
 - **[ficool2](https://github.com/ficool2)** - Programming. The entire reason this even exists.
 - **[Gabrielwoj](https://github.com/gabrielwoj)** - Bug testing, providing feedback and insight on changes/new features. Also made the Discord server image.
 - **[Andrew360](https://wiki.teamfortress.com/wiki/User:Andrew360)** - Bug testing, providing feedback and insight on changes/new features.
+- **[ArielChandia2](https://twitter.com/ArielChandia2) - Bug testing, providing feedback and insight on changes/new features.
 
 # Important!
 **HLMV++, like ficool2's other project, [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
