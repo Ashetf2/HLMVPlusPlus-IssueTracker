@@ -31,6 +31,7 @@ Download the EXE and the DLL files from this repo and extract them into your `st
 HLMV++ also works for TF2 Source mods like TF2Classic, Open Fortress and Pre-Fortress 2. [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further.
 
 # Fixes & New Features
+- **New Feature (22w45b):** You can now load particle effects in!
 - **New Feature:** [View > Show/Hide Control Panel](https://drive.google.com/file/d/1zGoXqRgWLNYCyMDyXg15ZOw6gnSVF2An/view?usp=drivesdk).
   - Allows you to show/hide the lower-third controls panel, for larger renders.
 - **New Feature/Fix:** Options > Make Screenshot.
