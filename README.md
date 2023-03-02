@@ -1,5 +1,5 @@
 # HLMVPlusPlus-IssueTracker
-**HLMV++** *(Half-Life Model Viewer++)* is a new build of HLMV created by ficool2 *(after its creation was commissioned by ThatCanadianEh)*. The goal is the same as [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), to fix long-standing bugs in HLMV and add new features and functionality to make the program better to use, whether you're doing model renders for artwork or for wiki articles.
+**HLMV++** *(Half-Life Model Viewer++)* is a new build of HLMV created by ficool2. The goal is the same as [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), to fix long-standing bugs in HLMV and add new features and functionality to make the program better to use, whether you're doing model renders for artwork or for wiki articles.
 
 You can download the latest testing build of **HLMV++** here. You can also report issues or provide feature suggestions here.
 
@@ -35,12 +35,12 @@ HLMV++ also works for TF2 Source mods like TF2Classic, Open Fortress and Pre-For
 - **New Feature:** [View > Show/Hide Control Panel](https://drive.google.com/file/d/1zGoXqRgWLNYCyMDyXg15ZOw6gnSVF2An/view?usp=drivesdk).
   - Allows you to show/hide the lower-third controls panel, for larger renders.
 - **New Feature/Fix:** Options > Make Screenshot.
-  - I don't know if this option ever worked in HLMV, nor what type of image file it would/should have outputted, but it now functions correctly, and functions way better. [It now generates a TGA formatted screenshot, complete with a proper automatically-created alpha channel](https://twitter.com/TF2CCWiki/status/1506697372360921091?t=6W5JvdDRSGEu30G94_DeHQ) for easier background-removal, even on [models with transparent/semi-transparent areas](https://twitter.com/TF2CCWiki/status/1505343182204190725?t=JvEA1EFZzbPdvkjvxJQ3cQ).
+  - I don't know if this option ever worked in HLMV, nor what type of image file it would/should have outputted, but it now functions correctly, and functions way better. [It now generates a TGA formatted screenshot, complete with a proper automatically-created alpha channel](https://twitter.com/TF2CutContent/status/1506697372360921091?t=6W5JvdDRSGEu30G94_DeHQ) for easier background-removal, even on [models with transparent/semi-transparent areas](https://twitter.com/TF2CutContent/status/1505343182204190725?t=JvEA1EFZzbPdvkjvxJQ3cQ).
 - **New Feature:** Options > Make Video.
   - Ever wanted a better way to make GIFs/APNGs of model animations in HLMV? This new "Make Video" option generates individual TGA screenshots for each frame of the animation you're viewing, complete with auto-generated alpha channels for easy background removal.
-- **New Feature:** ["Picmip", "Antialias" and "Anistropic" dropdowns added to the "Render" tab on the lower-third controls panel](https://twitter.com/TF2CCWiki/status/1494112255151153154?t=Sm1IA5paAfwOYRvCZckx-Q).
+- **New Feature:** ["Picmip", "Antialias" and "Anistropic" dropdowns added to the "Render" tab on the lower-third controls panel](https://twitter.com/TF2CutContent/status/1494112255151153154?t=Sm1IA5paAfwOYRvCZckx-Q).
   - Those dxsupport.cfg tweaks that you used to have to do to increase render quality should no longer be necessary.
-- **New Feature:** [Live VMT material editing](https://twitter.com/TF2CCWiki/status/1492267684372828167?t=FQ9Brn1XsnCRMPTCRNdGbg).
+- **New Feature:** [Live VMT material editing](https://twitter.com/TF2CutContent/status/1492267684372828167?t=FQ9Brn1XsnCRMPTCRNdGbg).
   - This should make learning what VMT variables do what, and learning how to work with VMT files in general, a hell of a lot easier. 
 - **Fixed:** VMT Material Proxies not being respected.
   - HLMV kind of ignored the entire Proxies section of VMT files for models. HLMV++ respects those proxies and thus, will display what the model would look like ingame.
