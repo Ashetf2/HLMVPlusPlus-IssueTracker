@@ -21,16 +21,18 @@ We have a Discord server now where you can submit bugs or feature suggestions!
 # Important!
 **HLMV++, like ficool2's other project, [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
 
-**This build is for Team Fortress 2**. I'm not certain if it will work nicely with other games, but it has been designed specifically for Team Fortress 2.
-
-I have however inquired with ficool2 about making a version of this program for other games *(L4D, L4D2, Portal, Portal 2, CSS, CS:GO, HL2, etc)*.
+# Supported Games
+- Team Fortress 2
+  - Can also work with the various Team Fortress 2 Source mods like TF2Classic, Pre-Fortress 2, Open Fortress and Team Deathmatch Classic.
+  - [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further. 
+- Left 4 Dead 2
 
 # Installation
-Download the EXE and the DLL files from this repo and extract them into your `steamapps/common/Team Fortress 2/bin` folder *(where `hlmv.exe` is stored)*. Then just launch `hlmvplusplus.exe` instead of `hlmv.exe` and you're done!
-
-HLMV++ also works for TF2 Source mods like TF2Classic, Open Fortress and Pre-Fortress 2. [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further.
+Download the EXE and the DLL files from this repo and extract them into your `steamapps/common/Team Fortress 2/bin` or `steamapps/common/Left 4 Dead 2/bin` folder *(where `hlmv.exe` is stored)*. Then just launch `hlmvplusplus.exe` instead of `hlmv.exe` and you're done!
 
 # Fixes & New Features
+I desperately need to update this section with all the new features from the recent Version 5 release.
+
 - **New Feature (22w45b):** You can now load particle effects in!
 - **New Feature:** [View > Show/Hide Control Panel](https://drive.google.com/file/d/1zGoXqRgWLNYCyMDyXg15ZOw6gnSVF2An/view?usp=drivesdk).
   - Allows you to show/hide the lower-third controls panel, for larger renders.
