@@ -1,24 +1,13 @@
 # HLMVPlusPlus-IssueTracker
 **HLMV++** *(Half-Life Model Viewer++)* is a new build of HLMV created by ficool2. The goal is the same as [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), to fix long-standing bugs in HLMV and add new features and functionality to make the program better to use, whether you're doing model renders for artwork or for wiki articles.
 
-You can download the latest testing build of **HLMV++** here. You can also report issues or provide feature suggestions here.
+You can download the latest testing build of **HLMV++** here. You can also report issues or provide feature suggestions here in the Issue Reports.
 
-Alternatively, if you're on Discord...
+Alternatively, if you're on Discord, we have a Discord server now where you can submit bugs or feature suggestions!
 
-# Official Discord
-We have a Discord server now where you can submit bugs or feature suggestions!
+**[Click here to join the HLMV++ Discord!](https://discord.gg/GeqVxrJfRs)**!
 
-**[Click here to join](https://discord.gg/GeqVxrJfRs)**!
-
-# Credits
-- **TF2CutContent** - Commissioned the creation of this project.
-- **[ficool2](https://github.com/ficool2)** - Programming. The entire reason this even exists.
-- **[Gabrielwoj](https://github.com/gabrielwoj)** - Bug testing, providing feedback and insight on changes/new features. Also made the Discord server image.
-- **[Andrew360](https://wiki.teamfortress.com/wiki/User:Andrew360)** - Bug testing, providing feedback and insight on changes/new features.
-- **[ArielChandia2](https://twitter.com/ArielChandia2)** - Bug testing.
-- **[A Paint Bucket Named Huey](https://twitter.com/HueyCan)** - Bug testing.
-
-# Important!
+# Source Code?
 **HLMV++, like ficool2's other project, [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
 
 # Supported Games
@@ -61,3 +50,11 @@ Here is an example "flex" key layout for `models/player/heavy.mdl`:
 
 # Other Notes
 - The **Make Screenshot** function may not work correctly when HLMV++ is stretched across multiple monitors. Doing so may result in a very wide screenshot with two copies of the same model in it. This is, to my knowledge, not fixable.
+
+# Credits
+- **TF2CutContent** - Commissioned the creation of this project.
+- **[ficool2](https://github.com/ficool2)** - Programming. The entire reason this even exists.
+- **[Gabrielwoj](https://github.com/gabrielwoj)** - Bug testing, providing feedback and insight on changes/new features. Also made the Discord server image.
+- **[Andrew360](https://wiki.teamfortress.com/wiki/User:Andrew360)** - Bug testing, providing feedback and insight on changes/new features.
+- **[ArielChandia2](https://twitter.com/ArielChandia2)** - Bug testing.
+- **[A Paint Bucket Named Huey](https://twitter.com/HueyCan)** - Bug testing.
