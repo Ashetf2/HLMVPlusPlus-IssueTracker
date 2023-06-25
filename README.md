@@ -5,7 +5,7 @@ You can download the latest testing build of **HLMV++** here. You can also repor
 
 Alternatively, if you're on Discord, we have a Discord server now where you can submit bugs or feature suggestions!
 
-**[Click here to join the HLMV++ Discord!](https://discord.gg/GeqVxrJfRs)**!
+**[Click here to join the HLMV++ Discord!](https://discord.gg/GeqVxrJfRs)**
 
 # Source Code?
 **HLMV++, like ficool2's other project, [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
