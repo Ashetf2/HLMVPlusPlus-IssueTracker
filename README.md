@@ -16,6 +16,11 @@ Alternatively, if you're on Discord, we have a Discord server now where you can 
   - [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further. 
 - Left 4 Dead 2
 
+## Coming soon(?)
+- [Garry's Mod](https://media.discordapp.net/attachments/981438283814944778/1154101962887938208/image.png)
+- Portal 2
+- Source SDK MP2013 (which means the shortcut trick won't be necessary to get this working for TF2 mods and other Source game mods)
+
 # Installation
 Download the EXE and the DLL files from this repo and extract them into your `steamapps/common/Team Fortress 2/bin` or `steamapps/common/Left 4 Dead 2/bin` folder *(where `hlmv.exe` is stored)*. Then just launch `hlmvplusplus.exe` instead of `hlmv.exe` and you're done!
 
